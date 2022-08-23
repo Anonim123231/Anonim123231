@@ -26,10 +26,4 @@ Hi, my name is Apo and I'm 17. I started software development 1 year ago with de
     <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 </div>
 
-## 📈 Github Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=apoderler&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoderler&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
